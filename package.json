@@ -1,0 +1,23 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiandevega/webpack-tutorial.git"
+  },
+  "author": "Damian de Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiandevega/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/damiandevega/webpack-tutorial#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
